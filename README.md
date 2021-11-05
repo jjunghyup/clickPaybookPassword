@@ -13,4 +13,6 @@ pip install -r requirements.txt
 ```
 
 ## 사용방법
- `test.py` 참조
+ ```
+ python test.py
+ ```
